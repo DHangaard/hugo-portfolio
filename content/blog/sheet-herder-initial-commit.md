@@ -91,7 +91,7 @@ In the next phase of the project, I will begin setting up the DAO layer. This sh
 
 ## Closing Thoughts
 
-This was my first post.
+This concludes my first post.
 
 Reading it back, it feels longer than it probably needs to be — but that is fairly typical for me. I usually strive for perfection in most things I do, which in this case resulted in me writing too much out of a nervousness about writing too little.
 
