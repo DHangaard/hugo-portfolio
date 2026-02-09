@@ -1,0 +1,33 @@
+[[main]]
+name = "Home"
+pageRef = "index"
+identifier = "MytxNTH08C"
+weight = 1
+
+[[main]]
+name = "Projects"
+pageRef = "404"
+identifier = "PBQdsBb6NT"
+weight = 2
+
+[[main]]
+name = "Blog"
+pageRef = "blog"
+identifier = "i0pnxRmWLF"
+weight = 3
+
+[[main]]
+name = "About"
+pageRef = "404"
+identifier = "PMXIJC6t1J"
+weight = 4
+
+[[main]]
+name = "GitHub"
+pre = "github"
+url = "https://github.com/DHangaard"
+identifier = "usvvJ3mgYO"
+weight = 9_999
+
+[[footer]]
+none = "none"
