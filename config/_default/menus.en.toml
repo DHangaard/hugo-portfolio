@@ -1,33 +1,40 @@
 [[main]]
-name = "Home"
-pageRef = "index"
-identifier = "MytxNTH08C"
-weight = 1
+name = "Blog"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+name = "Posts"
+parent = "Blog"
+pageRef = "posts"
+identifier = "i0pnxRmWLF"
+weight = 10
+
+[[main]]
+name = "Categories"
+parent = "Blog"
+pageRef = "categories"
+identifier = "i0pnxRmWLF"
+weight = 10
+
+[[main]]
+name = "Tags"
+parent = "Blog"
+pageRef = "tags"
+identifier = "i0pnxRmWLF"
+weight = 10
 
 [[main]]
 name = "Projects"
-pageRef = "404"
+pageRef = "projects"
 identifier = "PBQdsBb6NT"
-weight = 2
-
-[[main]]
-name = "Blog"
-pageRef = "blog"
-identifier = "i0pnxRmWLF"
-weight = 3
+weight = 20
 
 [[main]]
 name = "About"
-pageRef = "404"
+pageRef = "about"
 identifier = "PMXIJC6t1J"
-weight = 4
-
-[[main]]
-name = "GitHub"
-pre = "github"
-url = "https://github.com/DHangaard"
-identifier = "usvvJ3mgYO"
-weight = 9_999
+weight = 30
 
 [[footer]]
 none = "none"

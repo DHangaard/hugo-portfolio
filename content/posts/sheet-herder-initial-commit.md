@@ -46,21 +46,21 @@ After a fair amount of thinking — and discarding ideas that felt more like pla
 
 ### SPLITit
 
-[INSERT SLIDE]
+![SPLITit concept](/images/blog/split-it.png)
 
-An expense-splitting application where users can create groups, register shared expenses, and automatically calculate who owes whom.
+> An expense-splitting application where users can create groups, register shared expenses, and automatically calculate who owes whom.
 
 ### Sheet Herder
 
-[INSERT SLIDE]
+![Sheet Herder concept](/images/blog/sheet-herder.png)
 
-A _Tabletop Roleplaying Game_ (TTRPG) application where game masters can create campaigns, and players can manage characters and notes across sessions.
+> A _Tabletop Roleplaying Game_ (TTRPG) application where game masters can create campaigns, and players can manage characters and notes across sessions.
 
 ### What’s Left  
 
-[INSERT SLIDE]
+![What's Left concept](/images/blog/whats-left.png)
 
-A household application where users can create a home, organize tasks across rooms, and share notes and responsibilities within a family.
+> A household application where users can create a home, organize tasks across rooms, and share notes and responsibilities within a family.
 
 After presenting the three ideas to my study group and teacher, the choice ultimately fell on **Sheet Herder**. One of the deciding factors was its strong potential for integration with external APIs, which was something my teacher placed particular emphasis on.
 
@@ -80,7 +80,7 @@ At the same time, part of the appeal lies in the challenge itself. Of the three 
 
 The project is still in its early stages. Most of my time so far has been spent on careful analysis of the domain, which has resulted in a set of user stories, business rules, and a _Definition of Done_ (DoD). Alongside this, I have worked on a domain model that reflects how I currently view the domain.
 
-[DOMAIN MODEL]
+![Sheet Herder domain model](/images/blog/domain-model-light.svg)
 
 Although the domain itself is relatively simple, arriving at a model that accurately reflects it took more time than expected. One of the key differences compared to previous projects is how roles are not directly tied to a user, but instead depend on context. A user can take on different roles depending on the campaign, which required a shift in how I approached both analysis and modeling.
 
@@ -101,6 +101,6 @@ While this semester project is the main focus right now, it is not the only one 
 
 Thank you for reading! You can follow the current project status on GitHub:  
 
+{{< github repo="DHangaard/sheet-herder" >}}
 
-{{< github repo="DHangaard/sheet-herder" showThumbnail=true >}}
 ----

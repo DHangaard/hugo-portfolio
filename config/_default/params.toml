@@ -1,10 +1,10 @@
 colorScheme = "github"
-defaultAppearance = "dark"
+defaultAppearance = "light"
 autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
-enableCodeCopy = false
-enableStructuredBreadcrumbs = false
+enableCodeCopy = true
+enableStructuredBreadcrumbs = true
 replyByEmail = false
 disableImageOptimization = false
 disableImageOptimizationMD = false
@@ -23,12 +23,12 @@ rssnext = { }
 advertisement = { }
 
 [header]
-layout = "fixed-fill-blur"
+layout = "fixed"
 
 [footer]
 showMenu = true
 showCopyright = true
-showThemeAttribution = true
+showThemeAttribution = false
 showAppearanceSwitcher = true
 showScrollToTop = true
 
@@ -62,25 +62,25 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
+showTableOfContents = true
+showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = false
-showWordCount = true
-showZenMode = false
+showWordCount = false
+showZenMode = true
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = false
 orderByWeight = false
-groupByYear = true
+groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
@@ -98,7 +98,7 @@ showTableOfContents = false
 cardView = false
 
 [term]
-showHero = false
+showHero = true
 showBreadcrumbs = false
 showViews = false
 showLikes = false
