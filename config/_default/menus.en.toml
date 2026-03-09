@@ -1,39 +1,33 @@
 [[main]]
 name = "Blog"
-pageRef = "posts"
 weight = 10
 
 [[main]]
 name = "Posts"
 parent = "Blog"
 pageRef = "posts"
-identifier = "i0pnxRmWLF"
-weight = 10
+weight = 11
 
 [[main]]
 name = "Categories"
 parent = "Blog"
 pageRef = "categories"
-identifier = "i0pnxRmWLF"
-weight = 10
+weight = 12
 
 [[main]]
 name = "Tags"
 parent = "Blog"
 pageRef = "tags"
-identifier = "i0pnxRmWLF"
-weight = 10
+weight = 13
 
 [[main]]
 name = "Projects"
 pageRef = "projects"
-identifier = "PBQdsBb6NT"
 weight = 20
 
 [[main]]
 name = "About"
 pageRef = "about"
-identifier = "PMXIJC6t1J"
 weight = 30
 
 [[footer]]

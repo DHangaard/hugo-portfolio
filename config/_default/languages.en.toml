@@ -9,3 +9,5 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+copyright = "© { year } DHangaard"
+
