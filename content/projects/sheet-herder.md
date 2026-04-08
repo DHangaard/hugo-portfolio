@@ -64,7 +64,7 @@ A short walkthrough of the Sheet Herder portfolio and backend system.
 
 The video covers the project overview, development log, architecture, and a live backend demo.
 
-[Watch on YouTube](placeholder)
+[Video Demo](https://youtu.be/hG4LAV34rLU)
 
 ---
 
