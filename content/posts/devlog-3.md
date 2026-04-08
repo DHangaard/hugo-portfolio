@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "API Integration", "ExecutorService", "DTO"]
 series: ["Sheet Herder"]
 series_order: 4
-showSummary: true
 draft: false
 ---
 

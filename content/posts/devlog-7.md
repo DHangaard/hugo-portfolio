@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "DevOps", "Docker", "CI/CD"]
 series: ["Sheet Herder"]
 series_order: 8
-showSummary: true
 draft: false
 ---
 

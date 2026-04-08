@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "REST", "Javalin", "Logging"]
 series: ["Sheet Herder"]
 series_order: 5
-showSummary: true
 draft: false
 ---
 

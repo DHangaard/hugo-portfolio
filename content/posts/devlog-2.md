@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "JPA", "Hibernate", "Relations"]
 series: ["Sheet Herder"]
 series_order: 3
-showSummary: true
 draft: false
 ---
 

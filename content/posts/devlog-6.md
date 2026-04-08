@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "Security", "JWT", "BCrypt"]
 series: ["Sheet Herder"]
 series_order: 7
-showSummary: true
 draft: false
 ---
 

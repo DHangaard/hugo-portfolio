@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "Reflection", "Exam"]
 series: ["Sheet Herder"]
 series_order: 9
-showSummary: true
 draft: false
 ---
 

@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "Portfolio"]
 series: ["Sheet Herder"]
 series_order: 1
-showSummary: true
 draft: false
 ---
 

@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "JPA", "Hibernate", "Domain Model"]
 series: ["Sheet Herder"]
 series_order: 2
-showSummary: true
 draft: false
 ---
 

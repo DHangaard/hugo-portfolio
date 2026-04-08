@@ -6,7 +6,6 @@ categories: ["Devlog"]
 tags: ["Sheet Herder", "Testing", "REST Assured", "Testcontainers"]
 series: ["Sheet Herder"]
 series_order: 6
-showSummary: true
 draft: false
 ---
 

@@ -4,8 +4,6 @@ date: 2026-02-06
 description: "A REST API backend for managing tabletop RPG characters and campaigns."
 tags: ["Sheet Herder", "Java", "REST API", "JPA", "Docker"]
 featureimage: sheet-herder-thumbnail.png
-showReadingTime: false
-showDate: false
 draft: false
 ---
 
