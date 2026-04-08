@@ -32,4 +32,4 @@ Campaign management, character portrait uploads, and a frontend are the natural 
 
 For now, the focus is the exam. The goal is to walk through the codebase with confidence — not because every decision was perfect, but because every decision was made deliberately.
 
-{{< article path="devlog-7.md" >}}
+{{< article link="/posts/devlog-7/" >}}

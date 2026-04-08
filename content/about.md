@@ -38,4 +38,3 @@ The projects documented here are primarily built with:
 ## Contact
 
 - GitHub: [github.com/DHangaard](https://github.com/DHangaard)
-- Email: cph-dh258@stud.ek.dk

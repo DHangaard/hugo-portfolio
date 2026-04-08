@@ -17,7 +17,7 @@ github = "https://github.com/DHangaard"
 [[params.author.links]]
 linkedin = "www.linkedin.com/in/dhangaard"
 
-["params.author"]
+[params.author]
 name = "DHangaard"
 image = "profile.png"
 headline = "Studying AP in Computer Science"

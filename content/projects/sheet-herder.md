@@ -48,15 +48,15 @@ The system consists of:
 
 The project is documented week by week in the devlog series.
 
-{{< article path="../posts/devlog-0.md" >}}
-{{< article path="../posts/devlog-1.md" >}}
-{{< article path="../posts/devlog-2.md" >}}
-{{< article path="../posts/devlog-3.md" >}}
-{{< article path="../posts/devlog-4.md" >}}
-{{< article path="../posts/devlog-5.md" >}}
-{{< article path="../posts/devlog-6.md" >}}
-{{< article path="../posts/devlog-7.md" >}}
-{{< article path="../posts/devlog-8.md" >}}
+{{< article link="/posts/devlog-0/" >}}
+{{< article link="/posts/devlog-1/" >}}
+{{< article link="/posts/devlog-2/" >}}
+{{< article link="/posts/devlog-3/" >}}
+{{< article link="/posts/devlog-4/" >}}
+{{< article link="/posts/devlog-5/" >}}
+{{< article link="/posts/devlog-6/" >}}
+{{< article link="/posts/devlog-7/" >}}
+{{< article link="/posts/devlog-8/" >}}
 
 ---
 

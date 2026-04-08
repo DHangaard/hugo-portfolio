@@ -102,4 +102,4 @@ Thank you for reading! You can follow the current project status on GitHub:
 
 {{< github repo="DHangaard/sheet-herder" >}}
 
-{{< article path="devlog-1.md" >}}
+{{< article link="/posts/devlog-1/" >}}

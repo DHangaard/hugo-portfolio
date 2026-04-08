@@ -38,5 +38,5 @@ Building the API layer with Javalin was straightforward once the architecture wa
 
 The core API endpoints are in place. The next step is testing — making sure the API behaves correctly under the conditions defined by the acceptance criteria and business rules.
 
-{{< article path="devlog-3.md" >}}
-{{< article path="devlog-5.md" >}}
+{{< article link="/posts/devlog-3/" >}}
+{{< article link="/posts/devlog-5/" >}}

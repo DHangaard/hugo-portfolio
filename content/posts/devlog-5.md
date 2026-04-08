@@ -40,5 +40,5 @@ This week also briefly covered webhooks and websockets. Webhooks in particular b
 
 The test suite covers the core functionality and reflects the business rules and acceptance criteria. The next step is security — authentication and authorization.
 
-{{< article path="devlog-4.md" >}}
-{{< article path="devlog-6.md" >}}
+{{< article link="/posts/devlog-4/" >}}
+{{< article link="/posts/devlog-6/" >}}
