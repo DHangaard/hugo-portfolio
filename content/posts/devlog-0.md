@@ -100,5 +100,3 @@ While this semester project is the main focus right now, it is not the only one 
 Thank you for reading! You can follow the current project status on GitHub:
 
 {{< github repo="DHangaard/sheet-herder" >}}
-
-{{< article link="/posts/devlog-1/" >}}

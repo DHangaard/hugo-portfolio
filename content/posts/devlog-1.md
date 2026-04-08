@@ -44,6 +44,3 @@ The initial implementation reflects the domain model as it stands now — lean e
 I would have liked to be further along, but I would not have spent my time differently. Working through the JPA material carefully — including implementations I may not need for this specific project — gave me a solid foundation to build on.
 
 Sheet Herder is in a good state. The domain is defined, the rules are documented, and the persistence layer is taking shape. The next step is JPA relations, which will be the first real test of how well the domain model holds up in practice.
-
-{{< article link="/posts/devlog-0/" >}}
-{{< article link="/posts/devlog-2/" >}}

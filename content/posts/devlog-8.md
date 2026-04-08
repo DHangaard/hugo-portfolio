@@ -30,5 +30,3 @@ The JWT fail-fast pattern is a small detail that I am disproportionately satisfi
 Campaign management, character portrait uploads, and a frontend are the natural next steps. Whether they become part of this project or a separate one is an open question. The backend is built to support them — the domain model accounts for campaigns and membership, and the architecture is clean enough that extending it should not require significant rework.
 
 For now, the focus is the exam. The goal is to walk through the codebase with confidence — not because every decision was perfect, but because every decision was made deliberately.
-
-{{< article link="/posts/devlog-7/" >}}

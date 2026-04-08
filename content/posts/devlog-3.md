@@ -34,6 +34,3 @@ One challenge was handling updates. If the API data changes between deployments,
 ## Current State
 
 Reference data is fetched at startup, persisted locally, and kept current through hash-based change detection. The character sheet now has something meaningful to reference. Next up: building the REST API layer on top of what has been built so far.
-
-{{< article link="/posts/devlog-2/" >}}
-{{< article link="/posts/devlog-4/" >}}

@@ -28,6 +28,3 @@ Getting cascade behaviour right was one of the more time-consuming parts of this
 ## Current State
 
 The entity layer is taking shape. Relations are in place, fetch types are deliberate, and the cascade behaviour reflects the business rules defined last week. The next step is data integration — fetching reference data from an external API and persisting it locally.
-
-{{< article link="/posts/devlog-1/" >}}
-{{< article link="/posts/devlog-3/" >}}

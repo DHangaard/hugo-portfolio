@@ -46,15 +46,15 @@ The system consists of:
 
 The project is documented week by week in the devlog series.
 
-{{< article link="/posts/devlog-0/" >}}
-{{< article link="/posts/devlog-1/" >}}
-{{< article link="/posts/devlog-2/" >}}
-{{< article link="/posts/devlog-3/" >}}
-{{< article link="/posts/devlog-4/" >}}
-{{< article link="/posts/devlog-5/" >}}
-{{< article link="/posts/devlog-6/" >}}
-{{< article link="/posts/devlog-7/" >}}
-{{< article link="/posts/devlog-8/" >}}
+[Devlog 0 - Initial Commit](/posts/devlog-1.md)
+[Devlog 1](/posts/devlog-1.md)
+[Devlog 2](/posts/devlog-2.md)
+[Devlog 3](/posts/devlog-3.md)
+[Devlog 4](/posts/devlog-4.md)
+[Devlog 5](/posts/devlog-5.md)
+[Devlog 6](/posts/devlog-6.md)
+[Devlog 8](/posts/devlog-7.md)
+[Devlog 9](/posts/devlog-8.md)
 
 ---
 

@@ -34,6 +34,3 @@ Authorization is enforced through Javalin before-filters. Every route declares i
 ## Current State
 
 The security layer is in place. Authentication works, authorization is enforced, and passwords are handled correctly. The next step is deployment — getting the application running in a production environment.
-
-{{< article link="/posts/devlog-5/" >}}
-{{< article link="/posts/devlog-7/" >}}

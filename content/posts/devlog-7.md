@@ -33,5 +33,3 @@ The webhook is triggered by the GitHub Actions pipeline via a restricted SSH key
 
 Sheet Herder is live. The pipeline is working, deployments are automatic, and the infrastructure is stable. The final week is about wrapping up, reflecting, and preparing for the exam.
 
-{{< article link="/posts/devlog-6/" >}}
-{{< article link="/posts/devlog-8/" >}}
