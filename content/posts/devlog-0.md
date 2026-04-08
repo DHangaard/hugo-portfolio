@@ -2,7 +2,11 @@
 title: "Sheet Herder - Initial Commit"
 date: 2026-02-06
 description: "An introduction to this portfolio, its purpose, and the upcoming semester project."
-tags: ["Devlog", "Portfolio", "Project", "Sheet Herder"]
+categories: ["Devlog"]
+tags: ["Sheet Herder", "Portfolio"]
+series: ["Sheet Herder"]
+series_order: 1
+showSummary: true
 draft: false
 ---
 
@@ -12,7 +16,7 @@ To anyone reading, my name is Daniel, and this is the very first blog post on my
 
 This is all very much outside my comfort zone. I am a private person by nature — I do not use social media, I rarely use my full name publicly, and I am the kind of person who removes name labels from packages and letters before discarding the packaging. Writing publicly, even in a technical context, does not come naturally to me. As an exercise in self-development, I will try to be as honest and personal throughout this site as possible.
 
-This post is not intended to serve as an “About Me” section, but given that this is the starting point of the site, a short introduction feels appropriate.
+This post is not intended to serve as an "About Me" section, but given that this is the starting point of the site, a short introduction feels appropriate.
 
 I am in my mid-thirties and currently enrolled in the Datamatiker programme at Erhvervsakademi København. The English equivalent of this education is an Academy Profession Degree in Computer Science. I am currently on my third semester out of a total of five.
 
@@ -20,10 +24,9 @@ Before starting the Datamatiker programme in January 2025, I had no prior experi
 
 If you would like to know more, you can visit the [About](about) page.
 
-
 ## This Portfolio
 
-During this semester of the programme, we are required to develop a portfolio website. Beyond serving as a learning exercise, the site is also expected to function as a blog where we publish weekly devlogs related to this semester’s portfolio project.
+During this semester of the programme, we are required to develop a portfolio website. Beyond serving as a learning exercise, the site is also expected to function as a blog where we publish weekly devlogs related to this semester's portfolio project.
 
 The portfolio is intended to act as a platform where I can present my work, document ongoing projects, and share technical reflections. While a significant part of the content will be related to my studies, the site is not limited to a single project or subject area.
 
@@ -32,7 +35,6 @@ The site itself is mine. Beyond the requirement to publish weekly devlogs as par
 My expectation is that this will become a place where I can express myself through code and technical understanding, and use it as a portfolio that grows alongside me rather than being tied to a single semester.
 
 With that out of the way, it is time to move on to the subject of this post: my semester project.
-
 
 ## Choosing a Project
 
@@ -56,14 +58,13 @@ After a fair amount of thinking — and discarding ideas that felt more like pla
 
 > A _Tabletop Roleplaying Game_ (TTRPG) application where game masters can create campaigns, and players can manage characters and notes across sessions.
 
-### What’s Left  
+### What's Left
 
 ![What's Left concept](/images/blog/whats-left.png)
 
 > A household application where users can create a home, organize tasks across rooms, and share notes and responsibilities within a family.
 
 After presenting the three ideas to my study group and teacher, the choice ultimately fell on **Sheet Herder**. One of the deciding factors was its strong potential for integration with external APIs, which was something my teacher placed particular emphasis on.
-
 
 ## Expectations
 
@@ -75,7 +76,6 @@ I expect this to be a project with a relatively simple domain, but with a signif
 
 At the same time, part of the appeal lies in the challenge itself. Of the three project ideas, this is the only one where I cannot yet clearly see the full solution. That uncertainty will likely become a challenge — but it is also what I expect will push my learning the most.
 
-
 ## Current Project State
 
 The project is still in its early stages. Most of my time so far has been spent on careful analysis of the domain, which has resulted in a set of user stories, business rules, and a _Definition of Done_ (DoD). Alongside this, I have worked on a domain model that reflects how I currently view the domain.
@@ -86,8 +86,7 @@ Although the domain itself is relatively simple, arriving at a model that accura
 
 Another deliberate focus was keeping the model lean. It was an exercise in reducing entities to their essentials and ensuring that the model reflects the actual domain, rather than drifting into TTRPG- or _Dungeons & Dragons_ (D&D)-specific terminology such as classes, species, or similar concepts. The goal was to model what the system needs to support, not the flavor surrounding it.
 
-In the next phase of the project, I will begin setting up the DAO layer. This should provide a clearer picture of how data will be structured, persisted, and accessed, and help clarify how to handle the data needed to support the application’s core functionality: the character sheet.
-
+In the next phase of the project, I will begin setting up the DAO layer. This should provide a clearer picture of how data will be structured, persisted, and accessed, and help clarify how to handle the data needed to support the application's core functionality: the character sheet.
 
 ## Closing Thoughts
 
@@ -99,8 +98,8 @@ As mentioned earlier, sharing thoughts like this publicly is not something I am 
 
 While this semester project is the main focus right now, it is not the only one I am interested in. The two remaining project ideas are something I plan to return to, and if they are developed further, they will be documented here as well and added to the Projects section so they can be followed in the same way.
 
-Thank you for reading! You can follow the current project status on GitHub:  
+Thank you for reading! You can follow the current project status on GitHub:
 
 {{< github repo="DHangaard/sheet-herder" >}}
 
-----
+{{< article path="devlog-1.md" >}}

@@ -11,3 +11,13 @@ rtl = false
 dateFormat = "2 January 2006"
 copyright = "© { year } DHangaard"
 
+[[params.author.links]]
+github = "https://github.com/DHangaard"
+
+[[params.author.links]]
+linkedin = "www.linkedin.com/in/dhangaard"
+
+["params.author"]
+name = "DHangaard"
+image = "profilePicGB.png"
+headline = "Studying AP in Computer Science"
