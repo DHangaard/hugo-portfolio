@@ -46,15 +46,15 @@ The system consists of:
 
 The project is documented week by week in the devlog series.
 
-[Devlog 0 - Initial Commit](/posts/devlog-1.md)<br/>
-[Devlog 1](/posts/devlog-1.md)<br/>
-[Devlog 2](/posts/devlog-2.md)<br/>
-[Devlog 3](/posts/devlog-3.md)<br/>
-[Devlog 4](/posts/devlog-4.md)<br/>
-[Devlog 5](/posts/devlog-5.md)<br/>
-[Devlog 6](/posts/devlog-6.md)<br/>
-[Devlog 8](/posts/devlog-7.md)<br/>
-[Devlog 9](/posts/devlog-8.md)<br/>
+1. [Devlog 0 - Initial Commit](/posts/devlog-1.md)<br/>
+2. [Devlog 1 - Domain modelling, business rules, user stories and first steps with JPA](/posts/devlog-1.md)<br/>
+3. [Devlog 2 - JPA relations, fetch types and the first real test of the domain model](/posts/devlog-2.md)<br/>
+4. [Devlog 3 - Fetching reference data from the D&D 5e API, threading with ExecutorService and mapping with DTOs](/posts/devlog-3.md)<br/>
+5. [Devlog 4 - REST principles, HTTP methods, status codes, logging and building the API layer with Javalin](/posts/devlog-4.md)<br/>
+6. [Devlog 5](/posts/devlog-5.md)<br/>
+7. [Devlog 6](/posts/devlog-6.md)<br/>
+8. [Devlog 8](/posts/devlog-7.md)<br/>
+9. [Devlog 9](/posts/devlog-8.md)<br/>
 
 ---
 
